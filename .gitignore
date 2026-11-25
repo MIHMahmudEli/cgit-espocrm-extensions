@@ -1,0 +1,4 @@
+# Distribution repository gitignore
+*.tmp
+.DS_Store
+Thumbs.db
